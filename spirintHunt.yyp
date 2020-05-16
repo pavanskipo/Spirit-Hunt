@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0c65b9df-cc23-4122-8c9b-9da9ea9d99e0",
+            "Value": {
+                "id": "d286cfc6-53ea-4dcc-bfc1-a051271e3c3b",
+                "resourcePath": "sprites\\sGun\\sGun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "133d3a2f-3aa3-402a-b683-f6809196ba09",
             "Value": {
                 "id": "8fffe90e-650a-411e-980e-044ff285079d",
@@ -55,6 +63,14 @@
             }
         },
         {
+            "Key": "2fe6c217-f1d5-47e0-b159-baf76397a750",
+            "Value": {
+                "id": "d518306a-a41b-4bd3-b731-862129ef3da1",
+                "resourcePath": "sprites\\sCrosshair\\sCrosshair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "40394119-fcb0-4690-b4fd-6c17fa05f277",
             "Value": {
                 "id": "2a3310ee-7520-4c2f-8e8d-61897831d63b",
@@ -68,6 +84,14 @@
                 "id": "4afb6c3a-b35f-4db1-bb88-862efe9b5c57",
                 "resourcePath": "views\\499295a2-9b96-4402-a38f-cf17168f07b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4d6f7965-f664-41dc-9079-23f905aaf2cc",
+            "Value": {
+                "id": "5c745fed-8cf6-4990-a1a8-333494bbeb03",
+                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -188,6 +212,22 @@
                 "id": "9c00ea30-0926-4f36-a19c-838692e12395",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ae0ec8b9-13f0-409e-82ca-98708af0f2f6",
+            "Value": {
+                "id": "bfc12a93-1173-4961-bb62-a8c1bdc679b5",
+                "resourcePath": "objects\\oGun\\oGun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba00b1ac-9c51-446f-bc66-62e27a4e3fa5",
+            "Value": {
+                "id": "a14b807e-2bdc-4a8d-be8b-f71a31c5a4f1",
+                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
