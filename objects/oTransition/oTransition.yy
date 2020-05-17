@@ -1,15 +1,24 @@
 {
-    "id": "133d3a2f-3aa3-402a-b683-f6809196ba09",
+    "id": "dbf81ef9-a8a9-47d8-adfa-d1622a84c3e1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWall",
+    "name": "oTransition",
     "eventList": [
-        
+        {
+            "id": "a356c0de-e239-41ac-b544-4ae8072845fa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "dbf81ef9-a8a9-47d8-adfa-d1622a84c3e1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "9ff60fd2-3706-4811-a468-1725ecf48c66",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }
