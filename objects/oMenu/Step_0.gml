@@ -6,11 +6,13 @@ if(menu_control) {
 	if(keyboard_check_pressed(vk_up)) {
 		menu_cursor += 1;
 		ScreenShake(2, 20);
+		audio_play_sound(snFoot1, 5, false);
 		if (menu_cursor >= menu_items) menu_cursor = 0;
 	}
 	if(keyboard_check_pressed(vk_down)) {
 		menu_cursor -= 1;
 		ScreenShake(2, 20);
+		audio_play_sound(snFoot1, 5, false);
 		if (menu_cursor < 0) menu_cursor = menu_items - 1;
 	}
 	
@@ -18,7 +20,7 @@ if(menu_control) {
 		menu_x_target = gui_width + 200;
 		menu_committed = menu_cursor;
 		ScreenShake(6, 30);
-		audio_play_sound(snDeath, 10, false);
+		audio_play_sound(snStartGame, 10, false);
 		menu_control = false;
 	}
 }
