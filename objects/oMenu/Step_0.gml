@@ -23,6 +23,19 @@ if(menu_control) {
 		audio_play_sound(snStartGame, 10, false);
 		menu_control = false;
 	}
+	
+	var mouse_y_gui = device_mouse_y_to_gui(0);
+	if (mouse_y_gui < menu_y) and (mouse_y_gui > menu_top) {
+		menu_cursor = (menu_y - mouse_y_gui) div (menu_itemheight * 1);
+		if (mouse_check_button(mb_left)) {
+			menu_x_target = gui_width + 200;
+			menu_committed = menu_cursor;
+			ScreenShake(6, 30);
+			audio_play_sound(snStartGame, 10, false);
+			menu_control = false;
+		}
+	}
+	
 }
 
 if (menu_x > gui_width+150) and menu_committed != -1 {
