@@ -28,3 +28,7 @@ camera_set_view_pos(cam, x-view_w_half, y-view_h_half);
 if (layer_exists("mountain")) {
 	layer_x("mountain", x/2);
 }
+
+if (layer_exists("clouds")) {
+	layer_x("clouds", x/1.5);
+}
