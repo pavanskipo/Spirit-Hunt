@@ -8,7 +8,6 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "8d28494a-1b14-4a5d-ada2-2261f3f86e3e",
-        "0b625d86-aece-4abb-b5c8-490dd3316e7d",
         "f5f1df1b-244b-4db3-8337-9ad32ecc08ac",
         "e57ee9a7-f24c-4a4a-ad21-b5b20d070888",
         "d938d1ed-c4d0-40a5-9d8b-f71afb69de2b",
@@ -147,7 +146,8 @@
         "30c60136-2f6d-413c-8e53-3064c1dd3882",
         "5e82742f-f3cc-40ba-900a-41605936594a",
         "602be4af-4680-4f85-97f8-3a3abeadbeb6",
-        "ba8e4565-60ef-4fd2-9add-045cac414cb5"
+        "ba8e4565-60ef-4fd2-9add-045cac414cb5",
+        "bf841d23-b0b0-4249-8ff9-0a9ac4e23536"
     ],
     "IsDnD": false,
     "layers": [
@@ -191,7 +191,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6E3B7D9E","id": "0b625d86-aece-4abb-b5c8-490dd3316e7d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6E3B7D9E","objId": "ae0ec8b9-13f0-409e-82ca-98708af0f2f6","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 160,"y": 768}
+{"name": "inst_108E243B","id": "bf841d23-b0b0-4249-8ff9-0a9ac4e23536","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_108E243B","objId": "19374b35-2ab7-4b80-a867-a8400e5525bc","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1024,"y": 800}
             ],
             "layers": [
 
@@ -245,7 +245,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_80B99D","id": "d938d1ed-c4d0-40a5-9d8b-f71afb69de2b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_80B99D","objId": "2f7d8c9e-f73a-417f-84e1-a95f39336963","properties": [{"id": "8ba011c5-37a3-4362-9ec0-3228b3e45fc5","modelName": "GMOverriddenProperty","objectId": "2f7d8c9e-f73a-417f-84e1-a95f39336963","propertyId": "d94b11d6-e828-492e-8333-e19056b4419f","mvc": "1.0","value": "Welcome, Spirit Hunter \\nThe Spirits linger across the bridge\\n  Happy hunting!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 352,"y": 896},
+{"name": "inst_80B99D","id": "d938d1ed-c4d0-40a5-9d8b-f71afb69de2b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_80B99D","objId": "2f7d8c9e-f73a-417f-84e1-a95f39336963","properties": [{"id": "8ba011c5-37a3-4362-9ec0-3228b3e45fc5","modelName": "GMOverriddenProperty","objectId": "2f7d8c9e-f73a-417f-84e1-a95f39336963","propertyId": "d94b11d6-e828-492e-8333-e19056b4419f","mvc": "1.0","value": "Welcome, Spirit Hunter \\n your weapon is on the bridge \\n Happy Hunting!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 352,"y": 896},
 {"name": "inst_2C28415C","id": "11d89eca-53a9-44e6-ba39-4d09b2ccbde1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2C28415C","objId": "d93e1e48-0365-4f2d-b45f-2ef7c9dc93a7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 353,"y": 847},
 {"name": "inst_6CC61BED","id": "37148d16-1bd6-41e0-ad41-1382670c3adb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6CC61BED","objId": "cc2353ad-e0b7-4710-afe5-b87eb51dd68e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1792,"y": 672},
 {"name": "inst_771297F7","id": "df6bcd89-9792-4c26-8b4e-141f5d603ca4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_771297F7","objId": "cc2353ad-e0b7-4710-afe5-b87eb51dd68e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 2048,"y": 672},

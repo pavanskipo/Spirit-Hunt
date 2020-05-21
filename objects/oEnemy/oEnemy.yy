@@ -15,16 +15,6 @@
             "m_owner": "cc2353ad-e0b7-4710-afe5-b87eb51dd68e"
         },
         {
-            "id": "b7e38e49-7806-4655-ae20-32d72b3dd8f3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "cc2353ad-e0b7-4710-afe5-b87eb51dd68e"
-        },
-        {
             "id": "5341b1cf-0152-491d-8fbb-0b0f19c4ea11",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -36,8 +26,17 @@
         }
     ],
     "maskSpriteId": "a476220b-59c0-4389-bff4-c30783de3e04",
-    "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "588653c6-23c2-4a36-865a-89cda0a0711d",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "34d2b613-7bce-42bb-a197-344b162ce673",
+            "propertyId": "2632ccd3-4199-4427-961f-d02381e339cd",
+            "value": "5"
+        }
+    ],
+    "parentObjectId": "34d2b613-7bce-42bb-a197-344b162ce673",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -106,34 +105,6 @@
             "resourceFilter": 1023,
             "value": "walksp",
             "varName": "hsp",
-            "varType": 0
-        },
-        {
-            "id": "1721c455-73c8-4d0e-b173-3a66721dc28b",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "4",
-            "varName": "hp",
-            "varType": 0
-        },
-        {
-            "id": "b8c64ef0-73ff-4191-9adc-09a5b67047a9",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "flash",
             "varType": 0
         },
         {
