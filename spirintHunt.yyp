@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1dc28c90-c6cf-45bc-bed6-36bc5c8be720",
+            "Value": {
+                "id": "79d11bb1-5a55-4f7e-a3b3-44ed7bc84502",
+                "resourcePath": "objects\\oEGun\\oEGun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "201d0e9d-d3c4-466d-8d0a-60c7e8f590be",
             "Value": {
                 "id": "43b75758-0699-4a17-a2d6-321b1b28f591",
@@ -203,6 +211,14 @@
             "Value": {
                 "id": "2a383e03-9b6c-4ea0-b097-8be29dbc968d",
                 "resourcePath": "sprites\\sEnemyJump\\sEnemyJump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3974fc73-0634-4bc0-84ab-0c78c709cc7b",
+            "Value": {
+                "id": "47133509-2afa-48b6-ac40-b6ec6f3302e8",
+                "resourcePath": "sprites\\sEBullet\\sEBullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "8f01ef9d-169f-49bc-96e5-bf63f01d8ac6",
+            "Value": {
+                "id": "2baf72da-14fb-490c-95fa-6e583859fb57",
+                "resourcePath": "sprites\\sEGun\\sEGun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9037e072-4c6d-4243-aea9-01d657d065f8",
             "Value": {
                 "id": "b2b54207-2669-49d3-b58f-37aab5f295cf",
@@ -647,6 +671,14 @@
             }
         },
         {
+            "Key": "e78a5c8f-b06d-4994-aaf6-d598fe256a39",
+            "Value": {
+                "id": "588df6b8-6ffe-4c08-860e-22be565f00d8",
+                "resourcePath": "objects\\oEBullet\\oEBullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ec77dc27-a30c-4768-b2a0-c067aff753ae",
             "Value": {
                 "id": "b9ea8a88-5fdd-40db-a332-3a1f40f9aadb",
@@ -709,12 +741,21 @@
                 "resourcePath": "views\\fab41c4c-3706-4049-9124-6be4166740f4.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fac3cecd-eb3e-4237-8e76-19fb4dbb0d4e",
+            "Value": {
+                "id": "0e059b4e-7983-47b4-9472-2523cc555395",
+                "resourcePath": "scripts\\KillPlayer\\KillPlayer.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
         "5cf230b1-57d3-4e91-a3e1-f7d79d86e377",
         "519e912a-ac92-49c4-ac9f-239da891a8e9",
-        "0159d077-0924-4d7b-b831-40ad74dec0f6"
+        "0159d077-0924-4d7b-b831-40ad74dec0f6",
+        "fac3cecd-eb3e-4237-8e76-19fb4dbb0d4e"
     ],
     "tutorial": ""
 }
