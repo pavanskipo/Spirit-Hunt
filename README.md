@@ -13,4 +13,4 @@ A new Hunter has begun his journey to become the world's greatest Spirit Hunter.
 ## Links
 
 * [GameMaker Studio 2](https://medium.com/@pavanskipo/why-i-chose-gamemaker-studio-2-over-other-engines-89cafefef28c) - The Game Engine used
-* [Itch.io](https://pavanskipo.itch.io/) - Game Link
+* [Itch.io](https://pavanskipo.itch.io/spirit-hunt) - Game Link
