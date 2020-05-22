@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "5a1f8f8b-b60e-42d1-964c-364e6c520210",
+            "Value": {
+                "id": "db325214-8ec2-435e-a4ca-9556a4a5a29a",
+                "resourcePath": "objects\\oGame\\oGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a556153-f562-4522-81cb-1284b3fe8684",
             "Value": {
                 "id": "6c5997a7-e4f9-43c8-8ba3-e46aa09f4783",
