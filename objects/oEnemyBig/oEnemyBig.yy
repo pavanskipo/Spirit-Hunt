@@ -17,14 +17,6 @@
             "value": "2"
         },
         {
-            "id": "df7709d7-d77c-49f4-b99d-3cb8c905f666",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "cc2353ad-e0b7-4710-afe5-b87eb51dd68e",
-            "propertyId": "1721c455-73c8-4d0e-b173-3a66721dc28b",
-            "value": "16"
-        },
-        {
             "id": "2b42ad3a-d557-4268-a001-f4968261b38a",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
