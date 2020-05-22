@@ -1,0 +1,2 @@
+
+global.killsthisroom = 0;

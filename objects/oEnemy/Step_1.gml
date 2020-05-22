@@ -9,5 +9,10 @@ if (hp <= 0) {
 	}
 	
 	with(mygun) instance_destroy();
+	if (instance_exists(oPlayer)) {
+		global.kills +=1 ;
+		global.killsthisroom +=1;
+		with (oGame) killtextscale = 2;
+	}
 	instance_destroy();
 }
