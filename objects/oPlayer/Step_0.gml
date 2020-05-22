@@ -50,8 +50,12 @@ if (place_meeting(x, y+vsp, oWall)) {
 y += vsp;
 
 //Animation
+var aimside = sign(mouse_x - x);
+if (aimside != 0) image_xscale = aimside;
+
 if(!place_meeting(x, y+1, oWall)) {
 	sprite_index = sPlayerJump;
+	if (aimside != sign(hsp)) sprite_index = sPlayerJumprev;
 	image_speed = 0;
 	if (sign(vsp) > 0) image_index = 1; else image_index = 0;
 } else {
@@ -70,7 +74,7 @@ if(!place_meeting(x, y+1, oWall)) {
 		sprite_index = sPlayer;
 	} else {
 		sprite_index = sPlayerR;
+		if (aimside != sign(hsp)) sprite_index = sPlayerRrev;
 	}
 }
 
-if (hsp != 0) image_xscale = sign(hsp);

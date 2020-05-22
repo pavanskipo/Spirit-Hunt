@@ -17,7 +17,8 @@ if (mouse_check_button(mb_left) and (firingDelay < 0 )) {
 			direction = other.image_angle + random_range(-2, 2);
 			image_angle = direction;
 		}
-		
+	
+	//Gun kickback
 		with(oPlayer) {
 			gunkickx = lengthdir_x(1.5, other.image_angle-100);
 			gunkicky = lengthdir_y(1, other.image_angle-180);

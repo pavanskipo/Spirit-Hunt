@@ -711,11 +711,27 @@
             }
         },
         {
+            "Key": "ef1b894b-753b-4cb6-91ef-79043d4389f9",
+            "Value": {
+                "id": "0057ec09-ea40-4658-8b27-302afee1eee8",
+                "resourcePath": "sprites\\sPlayerRrev\\sPlayerRrev.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f0d3351a-ac96-4b35-a8ba-4b5555daab47",
             "Value": {
                 "id": "ad5ea82e-13cd-40f4-b1c2-a5657506f54d",
                 "resourcePath": "objects\\oCrate\\oCrate.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2bfd9ba-59ce-4d57-a32d-dd87a1e8b61a",
+            "Value": {
+                "id": "e0fef083-ceea-4032-80e8-b3a564587887",
+                "resourcePath": "sprites\\sPlayerJumprev\\sPlayerJumprev.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
